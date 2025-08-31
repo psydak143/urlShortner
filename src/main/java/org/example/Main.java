@@ -17,8 +17,8 @@ public class Main {
         System.out.println("Code 1: " + code1);
         System.out.println("Resolve: " + urlShortner.resolve(code1));
         System.out.println();
-        System.out.println("Long 2: " + long2);
-        System.out.println("Code 2: " + code2);
+        System.out.println("Long 2:- " + long2);
+        System.out.println("Code 2:- " + code2);
         System.out.println("Resolve: " + urlShortner.resolve(code2));
         System.out.println();
         System.out.println("Re-shorten Long 1 gives same code: " + code1Again);
